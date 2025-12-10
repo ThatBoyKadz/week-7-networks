@@ -34,9 +34,9 @@ This suite is ideal for educational purposes and safe network reconnaissance exe
 python blackbox.py
 ```
 
-*(Example uses 'python.org' as a safe target)*
 
-*(Insert screenshot showing terminal output with IP, organization, ASN, and location info)*
+<img width="668" height="228" alt="image" src="https://github.com/user-attachments/assets/41663c27-a7fd-4b24-a83b-c9f68bace1e4" />
+
 
 ---
 
@@ -56,9 +56,6 @@ python blackbox.py
 python nmap_scan.py
 ```
 
-*(Example scans localhost ports 1-10)*
-
-*(Insert screenshot showing Nmap scan results with protocol, ports, service names, and states)*
 
 ---
 
@@ -80,7 +77,8 @@ python portscan_basic.py
 
 *(Example scans localhost ports 22, 80, 443, 8080)*
 
-*(Insert screenshot showing list of open ports on localhost)*
+<img width="716" height="36" alt="image" src="https://github.com/user-attachments/assets/c5a79e7f-bdb4-4f72-8746-ee7afe66815e" />
+
 
 ---
 
@@ -100,9 +98,10 @@ python portscan_basic.py
 python recon.py
 ```
 
-*(Example uses 'python.org')*
 
-*(Insert screenshot showing resolved IP and passive OSINT info)*
+
+<img width="674" height="225" alt="image" src="https://github.com/user-attachments/assets/fba054f0-b2eb-4ec9-aab9-8ff26e0e9add" />
+
 
 ---
 
@@ -112,7 +111,7 @@ python recon.py
 2. **Port Scanning:** Use `portscan_basic.py` for quick TCP checks or `nmap_scan.py` for detailed service detection.
 3. **Analysis:** Combine the outputs to build a network profile for safe reconnaissance and testing.
 
-*(Insert a series of screenshots showing a sample domain scanned through each script.)*
+
 
 ---
 
