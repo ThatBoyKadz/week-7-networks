@@ -128,4 +128,4 @@ It is suitable for educational purposes, penetration testing labs, and safe netw
 
 ---
 
-*(Add all relevant screenshots where indicated to complete the portfolio.)*
+
